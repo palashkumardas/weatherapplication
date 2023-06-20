@@ -1,2 +1,2 @@
 url netlify:
-utl github repo:
+utl github repo:https://github.com/palashkumardas/weatherapplication
