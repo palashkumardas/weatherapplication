@@ -1,2 +1,2 @@
-url netlify:
+url netlify:https://exquisite-melba-29e0ea.netlify.app/
 utl github repo:https://github.com/palashkumardas/weatherapplication
