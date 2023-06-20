@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background: #961180;
+    font-family: "Trirong", serif;
+
+}
+.container-fluid
+{
+    width: 400px;
+    margin: 60px auto;
+    padding: 10px;
+}
+.option 
+{
+    padding: 2rem 0 2rem 0;
+    text-align: center;
+    justify-content: center;
+    background: white;
+}
+.option input[type="text"] 
+{
+    height: 4rem;
+    width: 20rem;
+    background: #212121;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    border: 2px solid #961180;
+    border-radius: 2px;
+    margin-right:4px ;
+}
+.option input[type="submit"] 
+{
+    height: 3rem;
+    width: 6rem;
+    background: #961180;
+    font-weight: bold;
+    color: white;
+    font-size: 1rem;
+    margin-top: 20px;
+    border: none;
+    border-radius: 2px;
+}
+
+
